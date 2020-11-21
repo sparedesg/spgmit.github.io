@@ -1,2 +1,2 @@
-# spg.github.io
+# spgmit.github.io
 Website
